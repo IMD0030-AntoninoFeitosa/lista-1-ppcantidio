@@ -9,7 +9,7 @@ int main(void)
     int cont = 0;
     int numero;
 
-    for (int n = 0; n < 5; n++){
+    for (int n = 0; n < SIZE; n++){
         cin >> numero;
         if (numero < 0){
             cont ++;
