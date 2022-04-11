@@ -4,17 +4,18 @@ using std::cout;
 
 const int SIZE = 5; // input size.
 
-int main(void){
+int main(void)
+{
     int cont = 0;
     int numero;
 
-    for(int i = 0; i < 5; i++){
+    for (int n = 0; n < SIZE; n++){
         cin >> numero;
         if (numero < 0){
-            cont++;
+            cont ++;
         }
     }
-
+    
     cout << cont;
 
     return 0;

@@ -1,0 +1,10 @@
+^C:\USERS\PICHAU\DOCUMENTS\LISTA-1-PPCANTIDIO\INTERVALOS\BUILD\CMAKEFILES\1F2C2FE3BA89CD73BB8E2B3F11B9764B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Pichau/Documents/lista-1-ppcantidio/intervalos -BC:/Users/Pichau/Documents/lista-1-ppcantidio/intervalos/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Pichau/Documents/lista-1-ppcantidio/intervalos/build/Intervalos.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
