@@ -1,0 +1,4 @@
+/home/pedro.cantidio.112/lista-1-ppcantidio/negativos5/build/CMakeFiles/program.dir
+/home/pedro.cantidio.112/lista-1-ppcantidio/negativos5/build/CMakeFiles/verify.dir
+/home/pedro.cantidio.112/lista-1-ppcantidio/negativos5/build/CMakeFiles/edit_cache.dir
+/home/pedro.cantidio.112/lista-1-ppcantidio/negativos5/build/CMakeFiles/rebuild_cache.dir

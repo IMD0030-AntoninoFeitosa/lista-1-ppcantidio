@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Pichau\Documents\lista-1-ppcantidio\intervalos\build\CMakeFiles\1f2c2fe3ba89cd73bb8e2b3f11b9764b\verify.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Pichau\Documents\lista-1-ppcantidio\intervalos\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Pichau\Documents\lista-1-ppcantidio\intervalos\build\CMakeFiles\verify" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{772F219A-F76A-3074-B474-47C5522784C9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

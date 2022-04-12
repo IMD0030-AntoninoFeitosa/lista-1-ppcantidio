@@ -1,0 +1,4 @@
+C:/Users/Pichau/Documents/lista-1-ppcantidio/intervalos/build/CMakeFiles/program.dir
+C:/Users/Pichau/Documents/lista-1-ppcantidio/intervalos/build/CMakeFiles/verify.dir
+C:/Users/Pichau/Documents/lista-1-ppcantidio/intervalos/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Pichau/Documents/lista-1-ppcantidio/intervalos/build/CMakeFiles/ZERO_CHECK.dir
