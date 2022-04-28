@@ -28,6 +28,7 @@ int main(void)
     }
 
     for(int i = 0; i < SIZE; i++) {
+        // o cast deveria ser static_cast<float>(count[i])
         std::cout << std::setprecision(4) << ((float)count[i]/(float)total)*100 << std::endl;
     }
 

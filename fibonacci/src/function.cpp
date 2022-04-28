@@ -11,7 +11,7 @@ std::vector<unsigned int> fib_below_n( unsigned int n )
             vetor.push_back(num_1);
             continue;        
         }
-        if (i == 1){
+        if (i == 1){ // é sempre falso e desse modo todas as saídas para n>=1 está incorretas
             vetor.push_back(num_2);
         }
 
